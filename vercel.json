@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "helal/package.json", "use": "@vercel/next" }
+  ]
+}
